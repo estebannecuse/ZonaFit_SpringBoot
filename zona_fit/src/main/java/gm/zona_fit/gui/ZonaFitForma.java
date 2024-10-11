@@ -13,7 +13,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
-@Component //con esto conecto todas las clases, puedo injectar dependencias
+//@Component //con esto conecto todas las clases, puedo injectar dependencias
 public class ZonaFitForma extends JFrame{
     private JPanel panelPrincipal;
     private JTable clientesTabla;
